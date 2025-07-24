@@ -25,4 +25,4 @@ Specializing in malware analysis and cybersecurity tools development. Core compe
 
 #
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/K3rn3lRo0t/K3rn3lRo0t/blob/output/github-snake-dark.svg)
