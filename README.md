@@ -4,15 +4,6 @@
 
 Specializing in malware analysis and cybersecurity tools development. Core competencies include reverse engineering, vulnerability research, and threat analysis automation.
 
-<p>
-  <a href="https://github.com/K3rn3lRo0t?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/K3rn3lRo0t?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/K3rn3lRo0t?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/K3rn3lRo0t?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/K3rn3lRo0t?tab=repositories&sort=count">
-    <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo" alt="My Repositories"></a>
-</p>
-
 ---
 
 ### Languages and Tools
